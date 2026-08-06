@@ -1,4 +1,8 @@
 First Commit 
+<<<<<<< HEAD
 Second Commit 
 Third Commit 
 Main 
+=======
+Feature 
+>>>>>>> ddc17c7 (Feature Commit)
