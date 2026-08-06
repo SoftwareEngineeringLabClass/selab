@@ -1,0 +1,25 @@
+From 334777a04fdffe38a963bb6954578f68c365c0b0 Mon Sep 17 00:00:00 2001
+From: borutejaswini <borutejaswini@gmail.com>
+Date: Thu, 6 Aug 2026 14:59:07 +0530
+Subject: [PATCH] Feature Commit
+
+---
+ demo.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/demo.txt b/demo.txt
+index f9c5c81..1f49499 100644
+--- a/demo.txt
++++ b/demo.txt
+@@ -1,4 +1,8 @@
+ First Commit 
++<<<<<<< HEAD
+ Second Commit 
+ Third Commit 
+ Main 
++=======
++Feature 
++>>>>>>> ddc17c7 (Feature Commit)
+-- 
+2.52.0.windows.1
+
